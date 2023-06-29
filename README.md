@@ -11,7 +11,7 @@ I created Python scripts for selecting, analyzing and saving the results of fina
 
 ![](https://t4.ftcdn.net/jpg/05/69/85/25/240_F_569852518_DTYL4I1fcG19rAZkbQR7Aq01DgKr3qT9.jpg)
 
-* I have developed a Python script to analyze the financial records of PyBank based on the prvoded dataset, [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset consists of two columns: `Date` and `Profit/Losses`. The script calculates the the following:
+* I have developed a Python script to analyze the financial records of PyBank based on the provided dataset, [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset consists of two columns: `Date` and `Profit/Losses`. The script calculates the the following:
 
   * The total number of months included in the dataset
 
