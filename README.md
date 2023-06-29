@@ -23,8 +23,9 @@ I created Python scripts for selecting, analyzing and saving the results of fina
 
   * The greatest decrease in losses (date and amount) over the entire period
 
+[PyBank.py - Python script](https://github.com/alejandro-davila/python-challenge/blob/main/PyBank/main.py)
 
-
+[Output.txt](https://github.com/alejandro-davila/python-challenge/blob/main/PyBank/analysis/output.txt)
 
   ```text
     Financial Analysis
@@ -53,8 +54,9 @@ I created Python scripts for selecting, analyzing and saving the results of fina
 
   * The winner of the election based on popular vote.
 
+[PyPoll.py - Python script](https://github.com/alejandro-davila/python-challenge/blob/main/PyPoll/main.py)
 
-
+[Output.txt](https://github.com/alejandro-davila/python-challenge/blob/main/PyPoll/analysis/output.txt)
 
   ```text
     Election Results
